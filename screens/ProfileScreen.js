@@ -8,3 +8,5 @@ const ProfileScreen = () => {
         </View>
     )
 }
+
+export default ProfileScreen
